@@ -1,0 +1,12 @@
+wget https://huggingface.co/jetmoe/jetmoe-8b-chat/resolve/main/config.json
+wget https://huggingface.co/jetmoe/jetmoe-8b-chat/resolve/main/generation_config.json
+wget https://huggingface.co/jetmoe/jetmoe-8b-chat/resolve/main/model-00001-of-00004.safetensors
+wget https://huggingface.co/jetmoe/jetmoe-8b-chat/resolve/main/model-00002-of-00004.safetensors
+wget https://huggingface.co/jetmoe/jetmoe-8b-chat/resolve/main/model-00003-of-00004.safetensors
+wget https://huggingface.co/jetmoe/jetmoe-8b-chat/resolve/main/model-00004-of-00004.safetensors
+wget https://huggingface.co/jetmoe/jetmoe-8b-chat/resolve/main/model.safetensors.index.json
+wget https://huggingface.co/jetmoe/jetmoe-8b-chat/resolve/main/README.md
+wget https://huggingface.co/jetmoe/jetmoe-8b-chat/resolve/main/special_tokens_map.json
+wget https://huggingface.co/jetmoe/jetmoe-8b-chat/resolve/main/tokenizer_config.json
+wget https://huggingface.co/jetmoe/jetmoe-8b-chat/resolve/main/tokenizer.json
+wget https://huggingface.co/jetmoe/jetmoe-8b-chat/resolve/main/tokenizer.model
