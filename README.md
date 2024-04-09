@@ -2,16 +2,9 @@
 
 Please pull `jetmoe-8b` model from `Huggingface` to `model/` folder and `jetmoe-8b-chat` model from `Huggingface` to `chat-model/` folder by running:
 ```
-cd model/
-./pull-model.files.sh
+./install.sh
 ```
-and
-
-```
-cd chat-model/
-./pull-model.files.sh
-```
-It should take about 15 minutes to pull the models. 
+It should take about 15 minutes to pull both the models. 
 
 Now you should be able to run:
 ```
